@@ -1,0 +1,7 @@
+config,Sharpe
+"Static hedge, pairs (baseline)",0.677
+Static hedge + regime filter,0.696
+Kalman dynamic hedge,-0.17
+Kalman dynamic hedge + regime filter,-0.137
+3-asset baskets,0.255
+3-asset baskets + regime filter,0.23
